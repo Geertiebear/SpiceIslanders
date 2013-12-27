@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties version="1.0">
+<comment>Dutch (nl_NL) Localization File</comment>
+<entry key="item.cottonSeeds.name">Katoen Zaden</entry>
+<entry key="item.tumericRoot.name">Koenjit Wortel</entry>
+<entry key="item.uCotton.name">Ongezuiverd Katoen</entry>
+<entry key="item.cotton.name">Katoen</entry>
+<entry key="item.NAT.name">Naald en Draad</entry>
+</properties>

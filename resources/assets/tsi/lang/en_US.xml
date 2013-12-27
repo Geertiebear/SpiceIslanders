@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties version="1.0">
+<comment>English (en_US) Localization File</comment>
+<entry key="item.cottonSeeds.name">Cotton Seeds</entry>
+<entry key="item.tumericRoot.name">Tumeric Root</entry>
+<entry key="item.uCotton.name">Unrefined Cotton</entry>
+<entry key="item.cotton.name">Cotton</entry>
+<entry key="item.NAT.name">Needle and Thread</entry>
+<entry key="tile.marble.name">Marble</entry>
+<entry key="item.woodMotar.name">Wood Mortar</entry>
+<entry key="item.stoneMotar.name">Stone Mortar</entry>
+<entry key="item.marbleMotar.name">Marble Mortar</entry>
+<entry key="item.mageMotar.name">Mage Mortar</entry>
+<entry key="item.pestle0.name">Wood Pestle</entry>
+<entry key="item.pestle1.name">Stone Pestle</entry>
+<entry key="item.pestle2.name">Marble Pestle</entry>
+<entry key="item.pestle3.name">Mage Pestle</entry>
+<entry key="item.woodMotarPestle.name">Wood Motar And Pestle</entry>
+<entry key="item.stoneMotarPestle.name">Stone Motar And Pestle</entry>
+<entry key="item.marbleMotarPestle.name">Marble Motar And Pestle</entry>
+<entry key="item.mageMotarPestle.name">Mage Motar And Pestle</entry>
+</properties>
